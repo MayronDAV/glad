@@ -20,3 +20,7 @@ dist/
 target/
 Cargo.lock
 .vscode/
+*.cmake
+/CMakeFiles
+*.vcxproj
+*.filters
